@@ -1,0 +1,5 @@
+{
+  "name": "Workout Stats Extractor",
+  "description": "Extract and aggregate workout data from screenshots using AI.",
+  "requestFramePermissions": []
+}
